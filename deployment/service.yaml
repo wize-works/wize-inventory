@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: wize-inventory-service
+  namespace: wizeworks
+  labels:
+    app: wize-inventory
+spec:
+  selector:
+    app: wize-inventory
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 3000
+  type: ClusterIP
