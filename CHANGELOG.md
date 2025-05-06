@@ -1,3 +1,16 @@
+# [1.2.0](https://github.com/wize-works/wize-inventory/compare/v1.1.0...v1.2.0) (2025-05-06)
+
+
+### Bug Fixes
+
+* correct indentation in deploy.yml for AKS context setup ([b8d4577](https://github.com/wize-works/wize-inventory/commit/b8d4577afbde13780ed6f034bc2915862fed823f))
+* update deploy.yml for non-interactive AKS auth ([b7c2e0e](https://github.com/wize-works/wize-inventory/commit/b7c2e0e04e90ff6c7060b47e0aae7c94d133b8d7))
+
+
+### Features
+
+* update @wizeworks/graphql-factory-mongo to version 1.31.0 ([4d3e19b](https://github.com/wize-works/wize-inventory/commit/4d3e19b88029c73760030b1f7556f8636cd851c1))
+
 # [1.1.0](https://github.com/wize-works/wize-inventory/compare/v1.0.0...v1.1.0) (2025-05-04)
 
 
