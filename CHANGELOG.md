@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/wize-works/wize-inventory/compare/v1.3.0...v1.3.1) (2025-05-06)
+
+
+### Bug Fixes
+
+* update @wizeworks/graphql-factory-mongo to version 1.33.0 ([32a46b7](https://github.com/wize-works/wize-inventory/commit/32a46b7ef95d7d17bbc276b1db20f287b5cbd462))
+
 # [1.3.0](https://github.com/wize-works/wize-inventory/compare/v1.2.0...v1.3.0) (2025-05-06)
 
 
